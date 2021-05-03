@@ -1,7 +1,9 @@
 # Summary
 A true classic Simon Electronic Memory Game written in VanillaJS/CSS and HTML5.
 
-https://user-images.githubusercontent.com/32665483/116894595-e0de7000-ac4f-11eb-90e7-e6da126f2974.mov
+
+https://user-images.githubusercontent.com/32665483/116895455-db355a00-ac50-11eb-8d56-302b00b48d5a.mov
+
 
 
 ## Getting Started
